@@ -569,7 +569,7 @@ sup .sup{
 .footer-about{
     display: flex;
     color: #586174;
-    filter: contrast(10%);
+    filter: contrast(50%);
 }
 .fa{
     margin-top: 30px;
